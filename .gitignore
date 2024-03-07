@@ -1,0 +1,10 @@
+# Ignore system and editor files
+.DS_Store
+.vscode/
+.idea/
+
+# Ignore any build artifacts or temporary files
+*.log
+
+# Ignore any dependencies or libraries
+/vendor/

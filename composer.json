@@ -1,0 +1,14 @@
+{
+    "name": "shrikant/simple-arithmetic",
+    "description": "A lightweight PHP library providing basic arithmetic operations.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "shrikant",
+            "email": "shrikantthombare1991@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
