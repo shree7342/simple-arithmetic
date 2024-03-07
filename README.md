@@ -1,8 +1,6 @@
-# simple-arithmetic
-"simple-arithmetic" is a PHP project providing a lightweight API for basic arithmetic operations. It includes endpoints for addition, subtraction, multiplication, and division.
+"simple-arithmetic" is a lightweight PHP library providing basic arithmetic operations as reusable components. It offers a clean and minimalistic API for addition, subtraction, multiplication, and division.
 
 Usage:
 
-Clone the repository.
-Deploy the project.
-Send HTTP requests to perform arithmetic operations.
+Install the library via Composer or include the ArithmeticOperations.php file in your project.
+Utilize the arithmetic operations functions in your PHP code.
