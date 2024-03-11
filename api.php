@@ -27,6 +27,9 @@ if ($operation && $num1 && $num2) {
         case "divide":
             $response['result'] = $calculator->divide($num1, $num2);
             break;
+        case "mod":
+            $response['result'] = $calculator->mod($num1, $num2);
+            break;
         default:
             $response['error'] = "Invalid operation";
             break;

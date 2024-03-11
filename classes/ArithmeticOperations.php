@@ -21,5 +21,9 @@ class ArithmeticOperations {
             return $num1 / $num2;
         }
     }
+
+    public function mod($num1, $num2) {
+        return $num1 % $num2;
+    }
 }
 ?>
